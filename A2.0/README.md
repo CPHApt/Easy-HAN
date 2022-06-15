@@ -5,4 +5,4 @@
 Features:
 
 - RS485
-- Regulador AMS
+- AMS1117-3.3 LDO 800MA
