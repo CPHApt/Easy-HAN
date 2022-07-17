@@ -12,3 +12,5 @@ Features:
 
 ![C1.0](C1.0_3.jpg)
 
+![RoHS](RoHS.jpg)
+
